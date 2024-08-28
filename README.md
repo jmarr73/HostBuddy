@@ -52,5 +52,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Inspiration for this project came from the need to simplify managing the hosts file with a user-friendly interface.
-
+- The inspiration for this project came from the need to efficiently manage hosts file entries during my OffSec, TryHackMe, and HackTheBox training sessions.
