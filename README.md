@@ -51,16 +51,16 @@ HostBuddy is a user-friendly tool for managing your `/etc/hosts` file with a sim
 
 ## Usage
 
-Here's a screenshot of the HostBuddy GUI:
-
-![HostBuddy Screenshot](./assets/hostbuddy.png)
-
 1. Enter the IP address and hostname you want to manage.
 2. Click "Add/Update Entry" to add or update an entry in the hosts file.
 3. Use the "Remove Entry" button to delete an entry from the hosts file.
 4. Click "Preview Hosts File" to view the current contents of the hosts file in a popup window.
 5. Use the "Restore from Backup" button to revert to the last saved backup.
 6. The "Clear" button clears the input fields for new entries.
+
+Here's a screenshot of the HostBuddy GUI:
+
+![HostBuddy Screenshot](./assets/hostbuddy.png)
 
 ## Contribution
 
