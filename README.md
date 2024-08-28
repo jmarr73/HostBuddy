@@ -16,6 +16,11 @@ HostBuddy is a user-friendly tool for managing your `/etc/hosts` file with a sim
 - Python 3.x
 - Tkinter (included with Python on most systems)
 
+## Compatibility
+
+- **Tested on**: This project has been primarily tested on Kali Linux, as it's the system used for OffSec, TryHackMe, and HackTheBox training platforms. While it may work on other Linux distributions, testing and support have been focused on Kali Linux.
+- **Note**: If you're using a different Linux distribution, please ensure that `tkinter` is installed and that your system meets the basic requirements outlined above.
+
 ## Installation
 
 1. Clone the repository to your local machine:
