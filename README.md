@@ -19,19 +19,35 @@ HostBuddy is a user-friendly tool for managing your `/etc/hosts` file with a sim
 ## Installation
 
 1. Clone the repository to your local machine:
+
     ```bash
-    git clone https://github.com/yourusername/HostBuddy.git
+    git clone https://github.com/jmarr73/HostBuddy.git
     ```
 
 2. Navigate to the project directory:
+
     ```bash
     cd HostBuddy
     ```
 
-3. Run the application:
+3. (Optional) Make the file executable:
+
+   ```bash
+   chmod +x ./HostBuddy
+   ```
+
+4. Run the application:
+   1. If you made the file executable:
+
     ```bash
-    sudo python3 hostbuddy.py
+    sudo ./hostbuddy.py
     ```
+
+   2. If you did not make it executable:
+
+   ```bash
+   sudo python3 hostbuddy.py
+   ```
 
 ## Usage
 
