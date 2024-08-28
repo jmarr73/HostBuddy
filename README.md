@@ -30,7 +30,7 @@ HostBuddy is a user-friendly tool for managing your `/etc/hosts` file with a sim
 
 3. Run the application:
     ```bash
-    python3 hostbuddy.py
+    sudo python3 hostbuddy.py
     ```
 
 ## Usage
